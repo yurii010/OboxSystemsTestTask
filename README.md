@@ -82,3 +82,8 @@ Please structure your walkthrough to cover the following points:
     *   Briefly mention any potential limitations of your current solution or what you would improve or add if you had more time. This demonstrates foresight and a good understanding of trade-offs.
 
 We are excited to see your interpretation and how you tackle the challenge.
+
+App
+https://obox-systems-test-task.vercel.app/
+Video
+https://www.youtube.com/watch?v=ZU261lhIWbQ
